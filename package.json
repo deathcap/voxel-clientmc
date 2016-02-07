@@ -13,7 +13,7 @@
   "dependencies": {
     "duplexer": "^0.1.1",
     "ever": "0.0.3",
-    "is-typedarray": "0.0.0",
+    "is-typedarray": "1.0.0",
     "itempile": "^1.0.2",
     "ndarray": "^1.0.14",
     "tellraw2dom": "0.0.4",
@@ -21,7 +21,7 @@
     "tobuffer-stream": "^1.0.0",
     "typedarray-to-buffer": "^3.0.1",
     "vec3": "^0.1.3",
-    "websocket-stream": "^1.4.0",
+    "websocket-stream": "^3.1.0",
     "webworkify": "^1.0.2",
     "workerstream": "^1.2.1",
     "wsmc": "git://github.com/deathcap/wsmc.git#master"
