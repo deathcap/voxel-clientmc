@@ -14,7 +14,7 @@
     "duplexer": "^0.1.1",
     "ever": "0.0.3",
     "is-buffer": "^1.1.2",
-    "itempile": "^1.0.2",
+    "itempile": "^2.0.0",
     "minecraft-data": "^0.19.1",
     "ndarray": "^1.0.14",
     "tellraw2dom": "0.0.4",
