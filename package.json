@@ -15,7 +15,7 @@
     "ever": "0.0.3",
     "is-buffer": "^1.1.2",
     "itempile": "^1.0.2",
-    "minecraft-data": "^0.19.1",
+    "minecraft-data": "^0.20.1",
     "ndarray": "^1.0.14",
     "tellraw2dom": "0.0.4",
     "through": "^2.3.6",
